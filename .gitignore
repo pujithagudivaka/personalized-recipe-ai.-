@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Envs
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit secrets (keep private API keys safe!)
+.streamlit/secrets.toml
+
+# Testing & Logs
+.pytest_cache/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
